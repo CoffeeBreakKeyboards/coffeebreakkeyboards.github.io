@@ -25,4 +25,4 @@ Build steps.
 
 ---
 
-![pm pins](assets/qaz_build/image0.jpg)
+![pm pins](../../assets/qaz_build/image0.jpg)
