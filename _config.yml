@@ -26,6 +26,7 @@ url: "https://docs.cbkbd.com" # the base hostname & protocol for your site, e.g.
 
 # Build settings
 theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 logo: "/images/logo.png"
 search_enabled: true
 aux_links:
