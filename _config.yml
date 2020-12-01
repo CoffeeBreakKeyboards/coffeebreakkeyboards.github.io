@@ -2,4 +2,4 @@ theme: jekyll-theme-minimal
 title: Coffee Break Keyboards
 description: Blog and Docs for Coffee Break
 github:
-  is\_project\_page: false
+  is_project_page: false

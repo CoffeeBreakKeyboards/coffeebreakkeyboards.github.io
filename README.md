@@ -2,6 +2,5 @@
 
 ---
 
-- [Home](https://cbkbd.com)
-- [Blog](pages/blog/index.html)
-- [Build Guides](pages/build-guides/test.md)
+- [Store Site](https://cbkbd.com)
+- [Build Guides](pages/build-guides/index.md)
